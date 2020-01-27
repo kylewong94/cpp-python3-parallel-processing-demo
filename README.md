@@ -1,8 +1,8 @@
 # cpp-python3-parallel-processing-demo
 Academic Project for California Polytechnic University of Pomona, Electrical and Computer Engineering Department 
-Class:        ECE4300
-Professor:    Dr.Hadedy Aly
-Contributors: Kyle Wong, George Kotobuki, Edan Nankin, Kenneth Livingword, Athan Alcala 
+Class:        ECE4300 <br/>
+Professor:    Dr.Hadedy Aly <br/>
+Contributors: Kyle Wong, George Kotobuki, Edan Nankin, Kenneth Livingword, Athan Alcala
 
 Abstract: Facial recognition usage in internet of things (IoT)
 is now commonly used for many applications. In this project we
