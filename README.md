@@ -1,14 +1,41 @@
 # cpp-python3-parallel-processing-demo
 Academic Project for California Polytechnic University of Pomona, Electrical and Computer Engineering Department 
-Class:        ECE4300 <br/>
+Class:        ECE4300 Computer Architecture<br/>
 Professor:    Dr.Hadedy Aly <br/>
 Contributors: Kyle Wong, George Kotobuki, Edan Nankin, Kenneth Livingword, Athan Alcala
 
-Abstract: Facial recognition usage in internet of things (IoT)
-is now commonly used for many applications. In this project we
-are stress testing a popular platform for IoT applications,
-Raspberry PI 3 B+. We specifically want to see how the processor
-on the PI reacts to heavy I/O using a peripheral (camera). We will
-be trying to maximize processing speed by using a lightweight
-Linux distribution Raspbian lite packaged with LXDE which is a
-lightweight gnome desktop environment.
+Summary: This project was created with the intention of satsifying the project required for the ECE4300 class at California Polytechnic University of Pomona. We are benchmarking a popular Internet of Things platform; Raspberry PI B+ by applying facial recognization and parallel processing techniques using python3. 
+
+If you would like to see the results of this project
+[Research Paper Wiki](includelink)
+
+## Table of Contents
+...
+
+## Requirements to run demo
+opencv2 <br/>
+python3 <br/>
+linux based operating system
+
+
+## Installation
+Open a command line interface and type 
+
+```
+git clone https://github.com/kylewong94/cpp-python3-parallel-processing-demo
+```
+
+Run the dependency check script
+
+```
+chmod u+x lib-check.sh
+```
+
+```
+sudo ./lib-check.sh
+```
+
+## Running the Demo
+The demo uses pretaken images in the folder /images. 
+
+
